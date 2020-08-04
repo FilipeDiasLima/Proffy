@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./images/Intro.png" width="600" />
+  <img src="./images/Proffy.png" width="300" />
 </h1>
 
 <p align="center">
