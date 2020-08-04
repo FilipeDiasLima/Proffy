@@ -13,9 +13,7 @@ Uma plataforma online para professores e alunos, com listagem de professores e s
 # Layout WEB
 
 <h1 align="center">
-  <img src="./images/home.png" width="800" padding-left="" />
-  <img src="./images/home2.png" width="398"/>
-  <img src="./images/listagem2.png" width="400" />
-  <img src="./images/listagem.png" width="800" />
+  <img src="./images/home.png" width="400" padding-left="" />
+  <img src="./images/home2.png" width="200"/>
 </h1>
 
