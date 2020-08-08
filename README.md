@@ -2,9 +2,18 @@
   <img src="./images/Proffy.png" width="300" />
 </h1>
 
+<br/>
+
 <p align="center">
   Um projeto desenvolvido na NLW(Next Level Week), Rocketseat.
 </p>
+
+<h2 align="center">
+  <img src="./images/home.png" width="560" padding-left="" />
+  <img src="./images/landing.png" width="150" padding-left="" />
+</h2>
+
+<br/>
 
 # Resumo do Projeto
 
