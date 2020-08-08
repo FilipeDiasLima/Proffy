@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./images/home.png" width="560" padding-left="" />
+  <img src="./images/landingNote.png" width="570" padding-left="" />
   <img src="./images/landing.png" width="150" padding-left="" />
 </h2>
 
