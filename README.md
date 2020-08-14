@@ -21,6 +21,54 @@ Uma plataforma online para que alunos encontrem professores. Para o aluno, o pro
 
 <h1 align="center">
   <img src="./images/home2.png" width="300" padding-left="20"/>
-  <img src="./images/listagem.png" width="300"/>
 </h1>
 
+
+# Como rodar a aplicação
+
+```
+# Clone do repositório
+Faça o clone da aplicação
+$ git clone https://github.com/FilipeDiasLima/Proffy.git
+```
+
+## Rodando o server/API
+
+```
+# Navegue até a pasta server
+$ cd Proffy/server
+
+# Instale as dependencias
+$ yarn
+
+# Execute o comando
+$ yarn start
+```
+
+## Rodando o projeto web
+
+```
+# Navegue até a pasta server
+$ cd Proffy/web
+
+# Instale as dependencias
+$ yarn
+
+# Execute o comando
+$ yarn start
+```
+
+## Rodando o projeto mobile
+
+```
+# Para rodar aplicação mobile, será necessário o EXPO
+
+# Navegue até a pasta server
+$ cd Proffy/mobile
+
+# Instale as dependencias
+$ yarn
+
+# Execute o comando
+$ expo start
+```
